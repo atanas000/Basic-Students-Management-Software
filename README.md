@@ -1,1 +1,1 @@
-# Basic-Students-Management-Software
+# Basic Students Management Software
